@@ -1,3 +1,3 @@
 # connect-jenkins-to-github
 Connecting Jenkins to GitHub.
-pushing from Github.
+Changed the repo to my repo,this should work!
